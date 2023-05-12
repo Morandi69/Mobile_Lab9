@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Mobile_Lab9</string>
+    <string name="true_login">nikitaklik300@gmail.com</string>
+    <string name="true_pass">1234</string>
 </resources>
